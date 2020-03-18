@@ -1,0 +1,21 @@
+
+.product-container {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-left: 100px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+.product-img {
+    margin-right: 20px
+}
+
+.call-to-action {
+    background-color: goldenrod;
+    padding: 10px;
+    border-radius: 5px;
+    width: 150px;
+    cursor: pointer;
+    border: 1px solid lightslategray
+
+}
